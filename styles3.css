@@ -1,0 +1,21 @@
+
+html {
+  background-color: #e0f7fa; }
+
+body {
+  max-width: 500px;           /* constrain width so auto margin works */
+  margin: 40px auto;          /* 40px top/bottom, auto left/right centering */
+  background-color: #ffffff;  /* white interior */
+  border: 3px solid #000000;  /* 3px solid black border */
+  padding: 20px;              /* inner spacing */
+  box-sizing: border-box;     /* include padding & border in max-width */
+}
+
+/* Heading style */
+h1 {
+  text-align: center;
+  border-bottom: 4px dotted #000000;
+}
+
+
+v2 https://iamhammadidrees-blip.github.io/Caculator/
